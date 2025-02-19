@@ -73,7 +73,4 @@ Website ini memiliki desain yang modern dan minimalis dengan warna dominan **bir
    ```
    http://localhost:8000
    ```
-## Lisensi
-
-Proyek ini tersedia di bawah lisensi MIT. Silakan gunakan dan modifikasi sesuai kebutuhan.
 
